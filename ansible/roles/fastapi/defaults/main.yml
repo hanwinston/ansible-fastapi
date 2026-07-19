@@ -1,6 +1,5 @@
----
-app_name: fastapi-app
-app_dir: /opt/fastapi
-venv_dir: /opt/fastapi/venv
-app_port: 8000
-repo_url: https://github.com/example/fastapi-demo.git
+app_name: fastapi
+app_user: ubuntu
+app_dir: /opt/fastapi-demo
+app_repo: git@github.com:your-org/fastapi-demo.git
+app_branch: main

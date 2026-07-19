@@ -1,5 +1,5 @@
 ---
-- name: Deploy FastAPI application
+- name: Deploy FastAPI
   hosts: web
   become: yes
 
