@@ -1,5 +1,5 @@
 app_name: fastapi
 app_user: ubuntu
 app_dir: /opt/fastapi-demo
-app_repo: git@github.com:your-org/fastapi-demo.git
+app_repo: git@github.com:hanwinston/fastapi-demo.git
 app_branch: main
